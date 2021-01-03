@@ -1,6 +1,8 @@
 /*The example for using cin from the video.
 **There is an error in the video. The correct
 **program is shown below.
+* 
+* this method is used instead of the vanilla std::cin >> userName because that method stops at any space, instead of a new line delimiter.
 */
 
 #include<iostream>
