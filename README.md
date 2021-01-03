@@ -7,5 +7,5 @@ $ g++ source.cpp -o <name-you-want-to-give>.out
 ## To run a binary file
 
 ```
-$ g++ ./<filename>.out
+$ ./<filename>.out
 ```
